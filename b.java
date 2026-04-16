@@ -1,3 +1,3 @@
 class B {
-  String version ="main";
+  String version ="branch";
 }
