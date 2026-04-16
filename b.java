@@ -1,1 +1,3 @@
-class B {}
+class B {
+  String version ="main";
+}
